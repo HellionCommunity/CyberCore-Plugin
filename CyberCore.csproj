@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="CyberCoreMain.cs" />
     <Compile Include="MsgCommand.cs" />
     <Compile Include="Position.cs" />
     <Compile Include="TeleportCommand.cs" />
