@@ -39,7 +39,7 @@ namespace CyberCore
                 return;
             }
             GetPluginHelper.SendMessageToServer(p.Name+" has joined the server!");
-            GetPluginHelper.SendMessageToClient(p, "Welcome to CyberCore, "+p.Name+"!");
+            GetPluginHelper.SendMessageToClient(p, "Welcome to the server "+p.Name+"!");
             GetPluginHelper.SendMessageToClient(p, "Use /help for all commands");
         }
     }
